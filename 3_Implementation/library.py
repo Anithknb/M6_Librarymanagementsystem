@@ -1,5 +1,5 @@
 class Library:
-    college = "ABC"
+    college = "SRM"
     def __init__(self, listOfBooks):
         self.books = listOfBooks
         self.book_index = range(len(listOfBooks))
